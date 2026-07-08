@@ -1,0 +1,9 @@
+Una plataforma tecnológica orientada a la participación ciudadana requiere un ecosistema robusto compuesto por base de datos, 
+autenticación y protección de información para garantizar su viabilidad y la confianza de la comunidad. En primer lugar, la 
+base de datos permite almacenar de manera ordenada, segura e histórica todas las iniciativas, causas o reportes, transformando
+las inquietudes vecinales en información estructurada y útil para la gestión comunitaria. Por su parte, la autenticación de
+usuarios es vital para validar la legitimidad de quienes participan, evitando la suplantación de identidad o el spam masivo 
+que podría deslegitimar los procesos de veeduría. Finalmente, la estricta protección de la información resguarda la privacidad 
+de los ciudadanos ante posibles represalias, acosos o filtraciones de datos sensibles. Sin este triple pilar de almacenamiento,
+control de acceso y seguridad, la plataforma perdería credibilidad, vulneraría los derechos de sus usuarios y fracasaría en su 
+misión de ser un canal seguro y transparente para la democracia participativa.

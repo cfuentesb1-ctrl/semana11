@@ -1,0 +1,14 @@
+
+
+La interfaz principal de la plataforma contaría con un formulario intuitivo ubicado en la parte superior o lateral, 
+diseñado para crear una nueva causa comunitaria, solicitando campos esenciales como un título descriptivo, una explicación 
+detallada del problema y la fecha del registro. 
+
+Justo al lado o abajo, se desplegaría una vista organizada de causas disponibles, dispuestas en tarjetas o listas limpias
+ para que los vecinos puedan leerlas con facilidad. 
+
+Dentro de cada tarjeta de causa, se integraría un botón destacado para apoyar la causa y un contador visual que muestre en
+ tiempo real cuántas personas se han sumado a esa iniciativa. 
+
+Toda la interfaz mantendrá un diseño claro, sencillo y de fácil navegación, asegurando una experiencia completamente anónima
+ donde nunca se muestre información privada de los usuarios que participan o crean los reportes.

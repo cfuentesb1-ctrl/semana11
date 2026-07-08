@@ -1,0 +1,6 @@
+El proceso de login es el mecanismo que permite identificar y validar la identidad de un usuario antes de otorgarle
+ acceso a las funcionalidades del sistema. En una plataforma comunitaria, es fundamental que ciertas rutas y vistas 
+estén totalmente protegidas para evitar que personas ajenas alteren registros internos, manipulen información privada 
+o ejecuten acciones administrativas no autorizadas. Por este motivo, bajo ninguna circunstancia se debe exponer públicamente
+ información sensible como contraseñas en texto plano, tokens de acceso, documentos de identidad, números telefónicos de los 
+ciudadanos o las claves de API del sistema, garantizando así la privacidad de la comunidad y la integridad de la aplicación.
